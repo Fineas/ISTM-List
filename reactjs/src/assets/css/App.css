@@ -1,0 +1,9 @@
+.App2 {
+  width: 100% !important;
+  height: 500px !important;
+}
+
+.display_result {
+  display: block !important;
+  overflow: auto;
+}
